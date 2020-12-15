@@ -1,6 +1,6 @@
 # PRACTICAL MACHINE LEARNING - Assignment
 
-## Introduction
+## 1. Introduction
 
 Using devices such as Jawbone Up, Nike FuelBand, and Fitbit it is now possible to collect a large amount of data about 
 personal activity relatively inexpensively. These type of devices are part of the quantified self movement – a group of enthusiasts 
@@ -11,7 +11,7 @@ were asked to perform barbell lifts correctly and incorrectly in 5 different way
 here: http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har (see the section on the Weight Lifting Exercise 
 Dataset).
 
-## Data
+## 2. Data
 
 The training data for this project are available here:
 https://d396qusza40orc.cloudfront.net/predmachlearn/pml-training.csv
@@ -24,18 +24,18 @@ http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har
 If you use the document you create for this class for any purpose please cite them as they have been very generous in allowing their 
 data to be used for this kind of assignment.
 
-## What you should submit
+## 3. What you should submit
 
 The goal of your project is to predict the manner in which they did the exercise. This is the "classe" variable in the training set. You may use any of the other variables to predict with. You should create a report describing how you built your model, how you used cross validation, what you think the expected out of sample error is, and why you made the choices you did. You will also use your prediction model to predict 20 different test cases.
 
-### Peer Review Portion
+### 3.1. Peer Review Portion
 
 Your submission for the Peer Review portion should consist of a link to a Github repo with your R markdown and compiled HTML file describing your analysis. Please constrain the text of the writeup to < 2000 words and the number of figures to be less than 5. It will make it easier for the graders if you submit a repo with a gh-pages branch so the HTML page can be viewed online (and you always want to make it easy on graders :-).
 
-### Course Project Prediction Quiz Portion
+### 3.2. Course Project Prediction Quiz Portion
 
 Apply your machine learning algorithm to the 20 test cases available in the test data above and submit your predictions in appropriate format to the Course Project Prediction Quiz for automated grading.
 
-### Reproducibility
+### 3.3. Reproducibility
 
 Due to security concerns with the exchange of R code, your code will not be run during the evaluation by your classmates. Please be sure that if they download the repo, they will be able to view the compiled HTML version of your analysis.
